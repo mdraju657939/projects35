@@ -212,6 +212,9 @@ font-family: 'Rubik', sans-serif;
     box-shadow: 0 0 30px 10px rgba(0, 0, 0, 0.1);
     
 }
+.pricing-box hr{
+    background: linear-gradient(45deg,#fff,#111,#fff);
+}
 .pricing-box h4{
     font-size: 20px;
     font-weight: 500;
